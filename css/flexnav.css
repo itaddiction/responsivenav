@@ -133,14 +133,9 @@ header {
     .hidden {
         display: none;
     }
-
+/*This removes the burger menu icon*/
     label {
         display: none;
-    }
-
-    /*CARD LAYOUT*/
-    .card {
-        flex: 0 1 31%;
     }
 }
 
